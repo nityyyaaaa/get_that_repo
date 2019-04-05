@@ -1,0 +1,37 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  background-color: #ceb591;
+  color : #F0FFF0;
+}
+
+.App {
+  text-align: center;
+  height: 100%;
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+input {
+  margin-top : 20px;
+  text-align: center;
+}
+
+.logo {
+  margin-left: 20px;
+  margin-top:40px;
+}
+
+.bread {
+  float: right;
+  height: 100%;
+}
+
+
